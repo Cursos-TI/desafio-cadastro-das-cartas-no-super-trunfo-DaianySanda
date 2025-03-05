@@ -65,7 +65,7 @@ int main (){
 
     printf("O nome do estado da segunda carta é: %s \n", estado);
     printf("O codigo da segunda carta é: %s \n", codigo_da_carta);
-    printf("O nome da cidade da segunda carta é: %d \n", nome_da_cidade);
+    printf("O nome da cidade da segunda carta é: %s \n", nome_da_cidade);
     printf("A populacao da cidade da segunda carta é: %d \n", populacao);
     printf("A area em km da cidade da segunda carta é: %f \n", area);
     printf("O PIB da cidade da segunda carta é: %f \n", PIB);
